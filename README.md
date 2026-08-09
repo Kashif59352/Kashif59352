@@ -1,17 +1,71 @@
-💫 Hi 👋, I'm Imran Alam
-A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India
+# 💫 Hi 👋, I'm Kashif
 
-Email Me 👉 ✉️ alamimran613@live.com For Collaboration/Project or Anything Else. 😊😊
+💻 **Software Developer | Flutter Developer | Computer Science Graduate**
 
-🔭 I’m currently working on: Enter your project info here
-🌱 I’m currently learning: Enter your tech here
-👯 I’m looking to collaborate on: Enter your project name and info
-🤔 I’m looking for help with: Your project here
-💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: Enter your email here
-😄 Pronouns: Imran Sir
-⚡ Fun fact: I Love Tech and Tech Love Me
-## 🌐 Socials:
+📧 **Email Me:** [kashif313114@gmail.com](mailto:kashif313114@gmail.com)
+For collaboration, projects, freelance work, or anything tech-related. 🚀
+
+### 👨‍💻 About Me
+
+* 🔭 I’m currently working on **Flutter, AI & Full-Stack Development projects**
+* 🌱 I’m currently learning **AI/ML, React.js, Node.js & Backend Development**
+* 👯 I’m looking to collaborate on **Flutter, AI/ML & Open-Source projects**
+* 🤝 I’m interested in building **real-world software solutions**
+* 💬 Ask me about **Flutter, Dart, Firebase, AI/ML, Git & Software Development**
+* 📫 How to reach me: **[kashif313114@gmail.com](mailto:kashif313114@gmail.com)**
+* ⚡ Fun fact: **I Love Tech and Tech Loves Me ❤️‍🔥**
+
+## 🚀 Tech Stack
+
+### 📱 Mobile Development
+
+* Flutter
+* Dart
+* GetX
+* Firebase
+
+### 🤖 AI / Machine Learning
+
+* Python
+* TensorFlow
+* TensorFlow Lite
+* Computer Vision
+* Object Detection
+
+### 🌐 Web & Backend
+
+* React.js
+* Node.js
+* JavaScript
+* FastAPI
+* REST APIs
+
+### 🗄️ Database & Storage
+
+* Firebase Firestore
+* SQL
+* SQLite
+* SharedPreferences
+
+### 🛠️ Tools
+
+* Git
+* GitHub
+* VS Code
+* Android Studio
+* Postman
+
+## 🌐 Socials
+
+📧 **Email:** [kashif313114@gmail.com](mailto:kashif313114@gmail.com)
+
+💻 **GitHub:** [Kashif59352](https://github.com/Kashif59352)
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
+
+🚀 *Building, Learning & Growing with Technology.*
 
 
 # 💻 Tech Stack:
